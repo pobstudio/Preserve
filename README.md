@@ -24,7 +24,7 @@ Groups of people that have subject-matter expertise around NFT metadata
 Guides and other resources on NFT preservation for collectors, NFT artists, developers, and communities
 
 * [NFT Cheat Sheet](https://www.pob.studio/learn/metadata-cheat-sheet) - A comprehensive guide around best practices around NFT metadata design
-
+* [Data integrity and $345 million worth of missing NFTs](https://blog.nft.storage/posts/2022-04-04-missing-nfts) - Some description here
 ---
 
 ## Storage Mediums
