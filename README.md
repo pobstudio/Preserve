@@ -42,6 +42,10 @@ Documentation for specific initiatives to help preserve NFT collections
 * [Gen.art](./projects/gen-art.md) - Generative art platform that shutdown in 2023, Pob Studio stepped in to help archive and push NFT metadata to IPFS
 * [Known Origin](./projects/) - NFT art platform. Pob Studio + NFT.Storage w/ the help of KO core team, helped archive and secure NFT metadata.
 
+# Contributing
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
 # License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
