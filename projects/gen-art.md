@@ -1,6 +1,6 @@
 # Gen Art
 
-Description of what gen.art is 
+gen.art is a generative art platform and community with its own NFT whitelisting token. TODO 
 
 ## Key participants
 ### Pob Studio
