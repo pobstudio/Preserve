@@ -4,11 +4,16 @@
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Curating the best NFT **preservation** resources, documentation, and project-specific efforts.
+Curating the best NFT **metadata** resources, documentation, and project-specific efforts.
 
-### What is preservation?
+## Sections
 
-TODO
+- [Organizations](#organizations)
+- [Resources](#resources)
+- [Storage Mediums](#storage-mediums)
+- [Preservation](#preservation)
+  - [What is preservation?](#what-is-preservation)
+  - [Project Specific Efforts](#project-specific-efforts)
 
 ---
 
@@ -36,7 +41,12 @@ Decentralized solutions designed to enable long term data storage, retrieval and
 
 ---
 
-## Project Specific Efforts
+## Preservation 
+
+### What is preservation?
+TODO
+
+### Project Specific Efforts
 Documentation for specific initiatives to help preserve NFT collections 
 
 * [Gen.art](./projects/gen-art.md) - Generative art platform that shutdown in 2023, Pob Studio stepped in to help archive and push NFT metadata to IPFS
