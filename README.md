@@ -44,12 +44,12 @@ Decentralized solutions designed to enable long term data storage, retrieval and
 ## Preservation 
 
 ### What is preservation?
-TODO
+@bitwizard TO DO.
 
 ### Project Specific Efforts
 Documentation for specific initiatives to help preserve NFT collections 
 
-* [Gen.art](./projects/gen-art.md) - Generative art platform that shutdown in 2023, Pob Studio stepped in to help archive and push NFT metadata to IPFS
+* [Gen.art](./projects/gen-art.md) - Generative art platform that shutdown in 2023, Pob Studio stepped in to help archive and push NFT metadata to IPFS.
 * [Known Origin](./projects/) - NFT art platform. Pob Studio + NFT.Storage w/ the help of KO core team, helped archive and secure NFT metadata.
 
 # Contributing

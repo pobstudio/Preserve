@@ -23,7 +23,7 @@ gen.art is a generative art platform and community with its own NFT whitelisting
 
 ## Timeline 
 
-[Note: this is AI generated, bitwizard, please verify these points lol]
+[Note: this is AI generated, bitwizard, please verify these points lol--verifying]
 
 ### 2021
 - Platform launches
